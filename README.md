@@ -21,57 +21,32 @@ Capable of independently delivering the full product chain:
 ---
 
 # 🛠 Tech Stack
+<details>
+<summary><h4>📌 点击展开 / 收起 技术栈徽章</h4></summary>
+
+<div align="center">
 
 ### 🔹 Hardware Platform
-<div align="center">
-  <img src="https://img.shields.io/badge/ESP32-00979D?style=flat-square&logo=espressif&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tuya_T5-FF7700?style=flat-square&logo=tuya&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Rockchip-009688?style=flat-square&logo=rockchip&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Allwinner-F74800?style=flat-square&logo=allwinner&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/K230-394577?style=flat-square&logo=linux&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/ESP32-00979D?style=flat-square&logo=espressif&logoColor=white"/><img src="https://img.shields.io/badge/Tuya_T5-FF7700?style=flat-square&logo=tuya&logoColor=white"/><img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/><img src="https://img.shields.io/badge/Rockchip-009688?style=flat-square&logo=rockchip&logoColor=white"/><img src="https://img.shields.io/badge/Allwinner-F74800?style=flat-square&logo=allwinner&logoColor=white"/><img src="https://img.shields.io/badge/K230-394577?style=flat-square&logo=linux&logoColor=white"/>
 
 ### 🔹 Programming Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</div>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 ### 🔹 Embedded & System
-<div align="center">
-  <img src="https://img.shields.io/badge/RT--Thread-000000?style=flat-square&logo=rt-thread&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/LVGL-79C600?style=flat-square&logo=lvgl&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/RT--Thread-000000?style=flat-square&logo=rt-thread&logoColor=white"/><img src="https://img.shields.io/badge/LVGL-79C600?style=flat-square&logo=lvgl&logoColor=white"/><img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/><img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white"/>
 
 ### 🔹 AI & Perception
-<div align="center">
-  <img src="https://img.shields.io/badge/Edge_Impulse-0F72FF?style=flat-square&logo=edgeimpulse&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/Edge_Impulse-0F72FF?style=flat-square&logo=edgeimpulse&logoColor=white"/><img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/><img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
 
 ### 🔹 Full-Stack Development
-<div align="center">
-  <img src="https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Mini_Program-07C160?style=flat-square&logo=wechat&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/><img src="https://img.shields.io/badge/Mini_Program-07C160?style=flat-square&logo=wechat&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 ### 🔹 Hardware & 3D Modeling
-<div align="center">
-  <img src="https://img.shields.io/badge/KiCad-2D93DB?style=flat-square&logo=kicad&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/嘉立创EDA-0091E8?style=flat-square&logo=circuit&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/FreeCAD-0098C3?style=flat-square&logo=freecad&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/KiCad-2D93DB?style=flat-square&logo=kicad&logoColor=white"/><img src="https://img.shields.io/badge/嘉立创EDA-0091E8?style=flat-square&logo=circuit&logoColor=white"/><img src="https://img.shields.io/badge/FreeCAD-0098C3?style=flat-square&logo=freecad&logoColor=white"/><img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
+
 </div>
+
+</details>
 
 ---
 
